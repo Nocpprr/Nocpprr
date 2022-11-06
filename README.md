@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+click here:
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+  <div>
+    <input type="button" onclick="https://nocpprr.github.io/myself.html">
+  </div>
+</body>
+</html>
+```
