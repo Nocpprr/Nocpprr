@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 click here:
+[myself](https://nocpprr.github.io/myself.html)
 ```
 <!DOCTYPE html>
 <html lang="en">
